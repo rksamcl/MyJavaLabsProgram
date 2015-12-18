@@ -1,6 +1,7 @@
 import java.util.*;
 class Sum_digit{
 public static void main(String[] args){
+System.out.println("This is main() method");
 Scanner sc=new Scanner(System.in);
 System.out.println("Enter a Number:");
 int n=sc.nextInt();
