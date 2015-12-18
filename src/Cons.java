@@ -23,6 +23,7 @@ System.out.println(sid+"\t"+sname+"\t"+phone);
 
 class Cons{
 public static void main(String args[]){
+System.out.println("main() method");
 Student st=new Student();
 Student st1=new Student(12,"Raj");
 st1.show();
