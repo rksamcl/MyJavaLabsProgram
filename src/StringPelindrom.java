@@ -6,7 +6,7 @@ class Find{
 	int i;
 	Find()
 	    {
-		System.out.println("Enter you String value");
+		System.out.println("Enter you String value to find palindrom");
 		Scanner sc=new Scanner(System.in);
 		str=sc.nextLine();
 		}
