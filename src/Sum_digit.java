@@ -13,3 +13,6 @@ n/=10;
 System.out.println("Sum of digit="+sum);
 }
 }
+void show(){
+  System.out.println("This is show() method");
+}
